@@ -1,5 +1,19 @@
 # 💫 El salam alaikom ,I'am  Houria:
-#  👋  <br>**Software Engineer** with a background in **Network and Embedded Systems Engineering**.  <br>Currently working as a **Full-Stack Developer**, I specialize in **React.js, Node.js, PostgreSQL, and Sequelize**.  <br><br>💡 My expertise combines **software development** with a deep understanding of **networking and embedded systems**.  <br>🔧 Passionate about **building scalable applications**, optimizing **system performance**, and exploring **new technologies**.  <br><br>## 🛠️ Tech Stack  <br>- **Frontend:** React.js, Material-UI<br>- **Backend:** Node.js, Express, Sequelize  <br>- **Database:** PostgreSQL  <br>- **Tools & Others:** Vite.js, Docker, Git, Linux  <br><br>📌 Always learning and working on exciting projects!  <br>Feel free to check out my repositories and connect.  <br>
+## 🚀 Software Engineer | Network & Embedded Systems Engineer 
+
+Currently working as a **Full-Stack Developer**, I specialize in **React.js, Node.js, PostgreSQL, and Sequelize**.  
+With a background in **Network and Embedded Systems Engineering**,   
+
+### 🛠 Tech Stack  
+- **Frontend:** React.js | Material-UI | Redux  
+- **Backend:** Node.js | Express | Sequelize  
+- **Database:** PostgreSQL  
+- **Tools & Platforms:** Vite.js | Docker | Git | Linux  
+
+💡 Passionate about **building scalable applications**, optimizing **system performance**, and exploring **emerging technologies**.  
+
+📌 Always learning and working on exciting projects!  
+Feel free to explore my repositories and connect with me. 🚀  
 
 
 ## 🌐 Socials:
